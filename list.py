@@ -1,0 +1,5 @@
+a = ("apple", "banana", "cherry")
+b = (list(a))
+print(b)
+print(type(a))
+print(type(b))
